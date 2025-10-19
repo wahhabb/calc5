@@ -1,6 +1,7 @@
 <script>
-	import '../app.css';
-	import App from './App.svelte';
+	import Calculator from "./Calculator.svelte"
+	
 </script>
 
-<App />
+<h1>Calculator</h1>
+<Calculator fontSize="16px" />

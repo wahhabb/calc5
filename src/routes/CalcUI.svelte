@@ -1,6 +1,3 @@
-<svelte:head>
-		@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200&display=swap');
-</svelte:head>
 <script lang='ts'>
 	let dispFontsize = '240%'
 	let { onMessage, dispString } = $props();		
